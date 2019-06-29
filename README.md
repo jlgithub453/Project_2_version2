@@ -1,1 +1,2 @@
-# Project_2_version2
+# Project_2
+Group project 2: Tim, Jack, Sarah, Lai

@@ -1,0 +1,104 @@
+h1 {
+    color: #333333;
+    font-size: 40px;
+    font-family: Times New Roman;
+    margin-top: -10px;
+    margin-bottom: -5px;
+    font-weight: bold;
+    
+}
+
+h2 {
+    color: #333333;
+    font-size: 20px;
+    font-family: Times New Roman;
+    padding: 10px;
+    margin-left: 280px;
+}
+
+/* h3 {
+    color: #D6F8D6;
+} */
+
+
+img {
+    max-width: 90%;
+    height: auto;
+}
+
+p img {
+    float: center;
+    box-shadow: 6px 10px #999999;
+}
+
+
+p {
+    margin: 20px;
+    padding: 25px;
+    background-color: #cccccc;
+}
+
+div .btn-group-vertical {
+    margin-left: 280px;
+    
+}
+
+table {
+    color: black;
+    background-color: white;
+}
+
+
+.plot-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20 px;
+    width: 60%
+}
+
+.plot-info {
+    text-align: center;
+}
+
+p.plot-info {
+    font-size: 15px;
+}
+
+body {
+    background-color: #808080;
+    padding: 10px;
+    margin: 10px;
+}
+
+#map-id,
+body,
+html {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.legend {
+  line-height: 18px;
+  color: "black";
+  background-color: white;
+}
+
+.legend i {
+  width: 30px;
+  height: 10px;
+  float: left;
+  margin-right: 5px;
+  margin-left: 5px;
+  opacity: 0.8;
+}
+
+
+.button {
+    background-color: #ffffff;
+}
+
+.no-margins {
+    margin-left: 0 !important
